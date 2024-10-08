@@ -1,0 +1,32 @@
+  testing.py
+ clear
+ dir
+ 
+ ls
+   ls -l
+   clear
+   git init
+   rm teating.py
+   rm testing.py
+   clear
+   git init
+   dir
+
+   git status
+   git status
+   git add testing.py
+   git status
+   git rm --cached
+   git stats
+   git status
+   git rm --cached
+   git rm --cached testing.py
+   git status
+   clear
+   git add .
+   git status
+   git commit -m "added testing files"
+   git status
+   rm testing.py
+   git status
+   git restore testing.py
